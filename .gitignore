@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.py[cod]
+build/
+data/managed_processes.json
+.DS_Store
+.vscode/
