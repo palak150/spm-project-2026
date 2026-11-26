@@ -2,6 +2,30 @@
 
 A Linux-focused capstone project that combines a C process-control helper with a Python/Tkinter desktop dashboard.
 
+## Application Screenshots
+
+### 1. Main Dashboard
+![Smart Process Manager Dashboard](<img width="1599" height="899" alt="image" src="https://github.com/user-attachments/assets/50225cb7-140b-41ee-8d2e-479e4fa50c6a" />
+
+
+### 2. finished Process
+![Finished Process](<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/f90c9893-5501-4461-a928-61210ab666ae" />
+
+
+### 3. Sleep Process
+![Sleep Process](<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/c89c3379-e9f8-49d1-9f3b-ef7e23096935" />
+
+
+### 4. Launch Process
+![Finished Process](<img width="1599" height="899" alt="image" src="https://github.com/user-attachments/assets/f41e4029-0d0d-4fac-8ead-a4fb5b6f0222" />
+
+###5. Launch failed
+![Launch Failed](<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/bff8abdf-6916-4279-af71-4d31b7382c46" />
+
+
+
+
+
 ## Features
 
 - Launch user-selected programs as child processes.
