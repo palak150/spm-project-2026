@@ -13,7 +13,8 @@ A Linux-focused capstone project that combines a C process-control helper with a
 
 
 ### 3. Sleep Process
-![Sleep Process](<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/c89c3379-e9f8-49d1-9f3b-ef7e23096935" />
+![Sleep Process](<img width="1599" height="899" alt="image" src="https://github.com/user-attachments/assets/81d1de8a-ac8c-4249-89f0-4f3763da3d77" />
+
 
 
 ### 4. Launch Process
